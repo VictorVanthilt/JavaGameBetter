@@ -1,3 +1,3 @@
 # Awesome game
 
-Copyright Hector Peeters
+Copyright Hector Peeters and Victor Vanthilt
